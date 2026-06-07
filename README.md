@@ -1,58 +1,78 @@
-# 👋 Merhaba, ben Caner Kale  
-_Software Engineer | .NET Developer | RPA & AI Automation Enthusiast_
+<h1 align="center">Caner Kale</h1>
 
-[![LinkedIn](www.linkedin.com/in/caner-kale)  
+<p align="center">
+  <b>Full-Stack Developer (.NET / Python) — building AI-powered enterprise automation</b><br>
+  <sub>Clean Architecture · CQRS · RPA · n8n · LangChain</sub>
+</p>
 
+<p align="center">
+  <a href="https://canerkale.com">🌐 canerkale.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/caner-kale">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/kale_caner">𝕏 @kale_caner</a>
+</p>
 
----
-
-## 🚀 Hakkımda / About Me
-
-**TR**  
-Ben Caner Kale. Profesyonel olarak **.NET ekosisteminde yazılım geliştiriyorum**.  
-Çalışmalarımda özellikle **RPA (Robotic Process Automation)**, **iş süreçleri otomasyonu** ve **yapay zeka entegrasyonları** üzerine yoğunlaşıyorum.  
-Hedefim, **kurumsal iş akışlarını hızlandıran, hataları azaltan ve verimliliği artıran** çözümler geliştirmek.  
-
-**EN**  
-I’m Caner Kale, a professional **.NET software engineer**.  
-My work focuses on **RPA (Robotic Process Automation)**, **process automation**, and **AI-powered integrations**.  
-My goal is to build solutions that **accelerate enterprise workflows, reduce errors, and improve efficiency**.  
-
----
-
-## 🛠 Teknoloji & Uzmanlık / Tech & Expertise
-
-- **Backend Development:** C#, ASP.NET Core, Entity Framework, LINQ  
-- **Data & Integration:** SQL Server, Oracle, REST API, JSON/XML  
-- **RPA / Automation:** UiPath, Power Automate, SAP Integration, eBA Workflows  
-- **Artificial Intelligence:** Python, Machine Learning workflows, AI-assisted automation  
-- **Software Principles:** Clean Code, Clean Architecture, Layered & Onion Architecture  
-- **DevOps & Tools:** Git/GitHub, Docker, CI/CD basics  
+<p align="center">
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white">
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</p>
 
 ---
 
-## 📌 Öne Çıkan Projeler / Featured Projects
+<details open>
+<summary><b>🇬🇧 English</b></summary>
 
-🔹 [**DeepLearning Project**]([https://github.com/kalecaner](https://github.com/kalecaner/DeepLearning_TrafficSign_CNNModel)) – Yapay zekâ ve derin öğrenme odaklı proje (deneysel çalışma)  
-🔹 [**ElectricConsumptionIntegration**]([https://github.com/kalecaner/ElectricConsumptionIntegration](https://github.com/kalecaner/ElectricConsumptionIntegration)) – Elektrik tüketim verilerinin entegrasyonu ve analizine yönelik uygulama  
-🔹 [**RentACarWithOnionArch**]([https://github.com/kalecaner/RentACarWithOnionArch](https://github.com/kalecaner/RentACarWithOnionArch)) – Onion Architecture ile kurumsal araç kiralama sistemi  
+### About
+I'm a Full-Stack Developer focused on **.NET and Python**, building **AI-powered enterprise automation**. I design clean, layered backend systems (**Clean / Onion Architecture, CQRS**) and connect them to modern automation and AI workflows (**RPA, n8n, LangChain**) that speed up business processes and reduce manual work.
+
+### What I work with
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs
+- **AI & Automation:** Python, LangChain, n8n, RPA, LLM / RAG workflows
+- **Data:** SQL Server, Oracle, JSON / XML integration
+- **Engineering:** Clean Architecture, CQRS, SOLID, layered design
+
+### Featured Projects
+| Project | Description |
+|---|---|
+| [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC app — Clean Architecture, CQRS, role-based access control |
+| [traffic-sign-classification-cnn](https://github.com/kalecaner/traffic-sign-classification-cnn) | Deep learning image classifier — CNN with MobileNetV2 transfer learning |
+| [vehicle-management-system](https://github.com/kalecaner/vehicle-management-system) | Vehicle management system with a layered .NET architecture |
+| [hospital-appointment-system](https://github.com/kalecaner/hospital-appointment-system) | Appointment scheduling system built with C# / .NET |
+
+</details>
+
+<details>
+<summary><b>🇹🇷 Türkçe</b></summary>
+
+### Hakkımda
+**.NET ve Python** odaklı bir Full-Stack geliştiriciyim ve **yapay zeka destekli kurumsal otomasyon** çözümleri geliştiriyorum. Temiz, katmanlı backend sistemleri (**Clean / Onion Architecture, CQRS**) tasarlayıp bunları iş süreçlerini hızlandıran modern otomasyon ve yapay zeka iş akışlarına (**RPA, n8n, LangChain**) bağlıyorum.
+
+### Kullandığım teknolojiler
+- **Backend:** C#, ASP.NET Core, Entity Framework Core, REST API
+- **Yapay Zeka & Otomasyon:** Python, LangChain, n8n, RPA, LLM / RAG iş akışları
+- **Veri:** SQL Server, Oracle, JSON / XML entegrasyonu
+- **Mühendislik:** Clean Architecture, CQRS, SOLID, katmanlı tasarım
+
+### Öne Çıkan Projeler
+| Proje | Açıklama |
+|---|---|
+| [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, rol bazlı yetkilendirme |
+| [traffic-sign-classification-cnn](https://github.com/kalecaner/traffic-sign-classification-cnn) | Derin öğrenme görüntü sınıflandırıcı — MobileNetV2 transfer learning |
+| [vehicle-management-system](https://github.com/kalecaner/vehicle-management-system) | Katmanlı .NET mimarisiyle araç yönetim sistemi |
+| [hospital-appointment-system](https://github.com/kalecaner/hospital-appointment-system) | C# / .NET ile randevu planlama sistemi |
+
+</details>
 
 ---
 
-## 🎯 İlgi Alanlarım / Interests
+<p align="center">
+  <img height="165" alt="Caner Kale's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kalecaner&show_icons=true&hide_border=true&include_all_commits=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecaner&layout=compact&hide_border=true&langs_count=8">
+</p>
 
-- .NET Core & modern backend development  
-- Yapay zekâ destekli iş süreçleri ve otomasyon  
-- RPA teknolojileri (UiPath, Power Automate, SAP entegrasyonları)  
-- Enterprise software design (Onion Architecture, Clean Architecture)  
-- Kurumsal süreçlerde verimlilik artırıcı çözümler  
-
----
-
-## 📫 İletişim / Contact
-
-- 📧 Email: **kalecaner@norton.me**  
-- 🔗 LinkedIn: [linkedin.com/in/caner-kale](https://www.linkedin.com/in/caner-kale)  
-- 💻 GitHub: [github.com/kalecaner](https://github.com/kalecaner)  
-
----
+<p align="center"><sub>📫 Reach me via <a href="https://canerkale.com">canerkale.com</a> or <a href="https://www.linkedin.com/in/caner-kale">LinkedIn</a>.</sub></p>
