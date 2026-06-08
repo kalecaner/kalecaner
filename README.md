@@ -27,9 +27,9 @@
 
 | Project | Description |
 |---|---|
-| [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Clean / Onion Architecture reference — CQRS (MediatR), FluentValidation, EF Core, xUnit |
+| [approval-workflow-api](https://github.com/kalecaner/approval-workflow-api) | **Flagship** — production-style approval-workflow REST API: Clean Architecture, CQRS, JWT + RBAC, EF Core/PostgreSQL, Docker, CI |
+| [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Compact Clean / Onion Architecture reference — CQRS (MediatR), FluentValidation, EF Core, xUnit |
 | [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, role-based access control |
-| [hospital-appointment-system](https://github.com/kalecaner/hospital-appointment-system) | Appointment scheduling backend built with C# / .NET |
 | [ai-automation-workflow](https://github.com/kalecaner/ai-automation-workflow) | Backend-driven automation — n8n orchestration + a LangChain extraction pipeline |
 | [python-automation-toolkit](https://github.com/kalecaner/python-automation-toolkit) | Dependency-free Python automation utilities with a CLI and tests |
 
