@@ -24,19 +24,8 @@
 
 ---
 
-<details open>
-<summary><b>🇬🇧 English</b></summary>
+## 🚀 Featured Projects
 
-### About
-I'm a Full-Stack Developer focused on **.NET and Python**, building **AI-powered enterprise automation**. I design clean, layered backend systems (**Clean / Onion Architecture, CQRS**) and connect them to modern automation and AI workflows (**RPA, n8n, LangChain**) that speed up business processes and reduce manual work.
-
-### What I work with
-- **Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs
-- **AI & Automation:** Python, LangChain, n8n, RPA, LLM / RAG workflows
-- **Data:** SQL Server, Oracle, JSON / XML integration
-- **Engineering:** Clean Architecture, CQRS, SOLID, layered design
-
-### Featured Projects
 | Project | Description |
 |---|---|
 | [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Clean / Onion Architecture reference — CQRS (MediatR), FluentValidation, EF Core, xUnit |
@@ -45,36 +34,34 @@ I'm a Full-Stack Developer focused on **.NET and Python**, building **AI-powered
 | [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, role-based access control |
 | [traffic-sign-classification-cnn](https://github.com/kalecaner/traffic-sign-classification-cnn) | Deep learning image classifier — CNN with MobileNetV2 transfer learning |
 
+---
+
+<details open>
+<summary><b>🇬🇧 About me (English)</b></summary>
+<br>
+
+I'm a Full-Stack Developer focused on **.NET and Python**, building **AI-powered enterprise automation**. I design clean, layered backend systems (**Clean / Onion Architecture, CQRS**) and connect them to modern automation and AI workflows (**RPA, n8n, LangChain**) that speed up business processes and reduce manual work.
+
+**Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs
+**AI & Automation:** Python, LangChain, n8n, RPA, LLM / RAG workflows
+**Data:** SQL Server, Oracle, JSON / XML integration
+**Engineering:** Clean Architecture, CQRS, SOLID, layered design
+
 </details>
 
 <details>
-<summary><b>🇹🇷 Türkçe</b></summary>
+<summary><b>🇹🇷 Hakkımda (Türkçe)</b></summary>
+<br>
 
-### Hakkımda
 **.NET ve Python** odaklı bir Full-Stack geliştiriciyim ve **yapay zeka destekli kurumsal otomasyon** çözümleri geliştiriyorum. Temiz, katmanlı backend sistemleri (**Clean / Onion Architecture, CQRS**) tasarlayıp bunları iş süreçlerini hızlandıran modern otomasyon ve yapay zeka iş akışlarına (**RPA, n8n, LangChain**) bağlıyorum.
 
-### Kullandığım teknolojiler
-- **Backend:** C#, ASP.NET Core, Entity Framework Core, REST API
-- **Yapay Zeka & Otomasyon:** Python, LangChain, n8n, RPA, LLM / RAG iş akışları
-- **Veri:** SQL Server, Oracle, JSON / XML entegrasyonu
-- **Mühendislik:** Clean Architecture, CQRS, SOLID, katmanlı tasarım
-
-### Öne Çıkan Projeler
-| Proje | Açıklama |
-|---|---|
-| [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Clean / Onion Architecture referansı — CQRS (MediatR), FluentValidation, EF Core, xUnit |
-| [ai-automation-workflow](https://github.com/kalecaner/ai-automation-workflow) | Yapay zeka ile belge onayı — n8n orkestrasyonu + LangChain çıkarım hattı |
-| [python-automation-toolkit](https://github.com/kalecaner/python-automation-toolkit) | Bağımlılıksız Python otomasyon araçları — CLI ve testlerle |
-| [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, rol bazlı yetkilendirme |
-| [traffic-sign-classification-cnn](https://github.com/kalecaner/traffic-sign-classification-cnn) | Derin öğrenme görüntü sınıflandırıcı — MobileNetV2 transfer learning |
+**Backend:** C#, ASP.NET Core, Entity Framework Core, REST API
+**Yapay Zeka & Otomasyon:** Python, LangChain, n8n, RPA, LLM / RAG iş akışları
+**Veri:** SQL Server, Oracle, JSON / XML entegrasyonu
+**Mühendislik:** Clean Architecture, CQRS, SOLID, katmanlı tasarım
 
 </details>
 
 ---
 
-<p align="center">
-  <img height="165" alt="Caner Kale's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kalecaner&show_icons=true&hide_border=true&include_all_commits=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalecaner&layout=compact&hide_border=true&langs_count=8">
-</p>
-
-<p align="center"><sub>📫 Reach me via <a href="https://canerkale.com">canerkale.com</a> or <a href="https://www.linkedin.com/in/caner-kale">LinkedIn</a>.</sub></p>
+<p align="center"><sub>📫 Reach me via <a href="https://canerkale.com">canerkale.com</a> or <a href="https://www.linkedin.com/in/caner-kale">LinkedIn</a></sub></p>
