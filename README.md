@@ -39,10 +39,11 @@ I'm a Full-Stack Developer focused on **.NET and Python**, building **AI-powered
 ### Featured Projects
 | Project | Description |
 |---|---|
-| [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC app — Clean Architecture, CQRS, role-based access control |
+| [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Clean / Onion Architecture reference — CQRS (MediatR), FluentValidation, EF Core, xUnit |
+| [ai-automation-workflow](https://github.com/kalecaner/ai-automation-workflow) | AI document approval — n8n orchestration + a LangChain extraction pipeline |
+| [python-automation-toolkit](https://github.com/kalecaner/python-automation-toolkit) | Dependency-free Python automation utilities with a CLI and tests |
+| [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, role-based access control |
 | [traffic-sign-classification-cnn](https://github.com/kalecaner/traffic-sign-classification-cnn) | Deep learning image classifier — CNN with MobileNetV2 transfer learning |
-| [vehicle-management-system](https://github.com/kalecaner/vehicle-management-system) | Vehicle management system with a layered .NET architecture |
-| [hospital-appointment-system](https://github.com/kalecaner/hospital-appointment-system) | Appointment scheduling system built with C# / .NET |
 
 </details>
 
@@ -61,10 +62,11 @@ I'm a Full-Stack Developer focused on **.NET and Python**, building **AI-powered
 ### Öne Çıkan Projeler
 | Proje | Açıklama |
 |---|---|
+| [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Clean / Onion Architecture referansı — CQRS (MediatR), FluentValidation, EF Core, xUnit |
+| [ai-automation-workflow](https://github.com/kalecaner/ai-automation-workflow) | Yapay zeka ile belge onayı — n8n orkestrasyonu + LangChain çıkarım hattı |
+| [python-automation-toolkit](https://github.com/kalecaner/python-automation-toolkit) | Bağımlılıksız Python otomasyon araçları — CLI ve testlerle |
 | [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, rol bazlı yetkilendirme |
 | [traffic-sign-classification-cnn](https://github.com/kalecaner/traffic-sign-classification-cnn) | Derin öğrenme görüntü sınıflandırıcı — MobileNetV2 transfer learning |
-| [vehicle-management-system](https://github.com/kalecaner/vehicle-management-system) | Katmanlı .NET mimarisiyle araç yönetim sistemi |
-| [hospital-appointment-system](https://github.com/kalecaner/hospital-appointment-system) | C# / .NET ile randevu planlama sistemi |
 
 </details>
 
