@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>.NET Backend Developer — ASP.NET Core · Clean Architecture · CQRS</b><br>
-  <sub>Enterprise REST APIs · EF Core · with automation &amp; AI where it adds value (n8n, LangChain)</sub>
+  <sub>Enterprise REST APIs · EF Core · with automation &amp; AI where it adds value (n8n, Microsoft Agent Framework)</sub>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 | [approval-workflow-api](https://github.com/kalecaner/approval-workflow-api) | **Flagship** — production-style approval-workflow REST API: Clean Architecture, CQRS, JWT + RBAC, EF Core/PostgreSQL, Docker, CI |
 | [dotnet-clean-architecture-reference](https://github.com/kalecaner/dotnet-clean-architecture-reference) | Compact Clean / Onion Architecture reference — CQRS (MediatR), FluentValidation, EF Core, xUnit |
 | [task-management-clean-architecture](https://github.com/kalecaner/task-management-clean-architecture) | ASP.NET Core MVC — Clean Architecture, CQRS, role-based access control |
-| [ai-automation-workflow](https://github.com/kalecaner/ai-automation-workflow) | Backend-driven automation — n8n orchestration + a LangChain extraction pipeline |
+| [ai-automation-workflow](https://github.com/kalecaner/ai-automation-workflow) | Backend-driven automation — n8n orchestration + a Microsoft Agent Framework extraction pipeline |
 | [python-automation-toolkit](https://github.com/kalecaner/python-automation-toolkit) | Dependency-free Python automation utilities with a CLI and tests |
 
 ---
@@ -39,11 +39,11 @@
 <summary><b>🇬🇧 About me (English)</b></summary>
 <br>
 
-I'm a **.NET Backend Developer** specializing in **ASP.NET Core** REST APIs built on **Clean / Onion Architecture** and **CQRS**. I focus on maintainable, testable backend systems with clear boundaries — and I extend them with automation and AI workflows (**n8n, LangChain, RPA**) when they add real business value.
+I'm a **.NET Backend Developer** specializing in **ASP.NET Core** REST APIs built on **Clean / Onion Architecture** and **CQRS**. I focus on maintainable, testable backend systems with clear boundaries — and I extend them with automation and AI workflows (**n8n, Microsoft Agent Framework, RPA**) when they add real business value.
 
 **Core:** C#, ASP.NET Core, Entity Framework Core, REST APIs, SQL Server
 **Architecture:** Clean / Onion Architecture, CQRS, MediatR, SOLID, layered design
-**Automation & AI:** Python, n8n, LangChain, RPA *(secondary focus)*
+**Automation & AI:** Python, n8n, Microsoft Agent Framework, RPA *(secondary focus)*
 **Tooling:** Git, Docker, xUnit
 
 </details>
@@ -52,11 +52,11 @@ I'm a **.NET Backend Developer** specializing in **ASP.NET Core** REST APIs buil
 <summary><b>🇹🇷 Hakkımda (Türkçe)</b></summary>
 <br>
 
-**ASP.NET Core** üzerine, **Clean / Onion Architecture** ve **CQRS** ile REST API geliştiren bir **.NET Backend geliştiricisiyim**. Net sınırlara sahip, sürdürülebilir ve test edilebilir backend sistemlere odaklanırım — ve gerçek iş değeri kattığı yerde bunları otomasyon ve yapay zeka iş akışlarıyla (**n8n, LangChain, RPA**) genişletirim.
+**ASP.NET Core** üzerine, **Clean / Onion Architecture** ve **CQRS** ile REST API geliştiren bir **.NET Backend geliştiricisiyim**. Net sınırlara sahip, sürdürülebilir ve test edilebilir backend sistemlere odaklanırım — ve gerçek iş değeri kattığı yerde bunları otomasyon ve yapay zeka iş akışlarıyla (**n8n, Microsoft Agent Framework, RPA**) genişletirim.
 
 **Çekirdek:** C#, ASP.NET Core, Entity Framework Core, REST API, SQL Server
 **Mimari:** Clean / Onion Architecture, CQRS, MediatR, SOLID, katmanlı tasarım
-**Otomasyon & Yapay Zeka:** Python, n8n, LangChain, RPA *(ikincil odak)*
+**Otomasyon & Yapay Zeka:** Python, n8n, Microsoft Agent Framework, RPA *(ikincil odak)*
 **Araçlar:** Git, Docker, xUnit
 
 </details>
